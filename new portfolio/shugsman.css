@@ -1,0 +1,44 @@
+html{
+    background-color: aquamarine;
+}
+.iconbar{
+    background-color: rgb(56, 30, 30);
+}
+.head1{
+    text-align: center;
+    height: 15%;
+    background-color: rgb(4, 36, 25);
+
+}
+.head2{
+text-align: center;
+}
+.head3{
+text-align: center;
+}
+.head4{
+    text-align: center;
+}
+.img1{width: 200px;
+    height: 25%;
+
+}
+.img2{
+    width: 200px;
+    height: 25%;
+}
+.img3{
+    width: 200px;
+    height: 25%;
+}
+.img4{width: 200px;
+    height: 25%;
+
+}
+.head8{
+    text-align: center;
+    background-color: rgb(107, 124, 119);
+}
+.skills{
+    text-align: center;
+}

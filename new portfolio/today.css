@@ -1,0 +1,25 @@
+.blue{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    position: relative;
+    top: 500px;
+    z-index: -1;
+
+}
+.red{ width: 200px;
+    height: 200px;
+    background-color:red;
+    position: static;
+
+}
+.pink{
+    width: 200px;
+    height: 200px;
+    background-color: pink;
+}
+.purple{ width: 200px;
+    height: 200px;
+    background-color: purple;
+
+}

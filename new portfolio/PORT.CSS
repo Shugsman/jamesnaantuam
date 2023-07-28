@@ -1,0 +1,32 @@
+body {
+    margin-top: 100px;
+    background-color: rgb(116, 118, 121);
+    padding: 100px;
+    text-align: center;
+    font-family: serif;
+    background-color: aquamarine;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.S1 {
+    font-family: 'Lugrasimo', cursive;
+    font-family: 'Lumanosimo', cursive;
+    font-family: 'VT323', monospace;
+
+}
+
+.S2 {
+    font-family: 'Lugrasimo', cursive;
+    font-family: 'Lumanosimo', cursive;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'VT323', monospace;
+
+}
+
+ul {
+    list-style: none;
+}
+footer{
+    background-color: rgb(87, 105, 105);
+}
